@@ -1,0 +1,27 @@
+Dropdown con todos los generos
+
+    Al elegir un genero se muestran los mismos graficos
+    pero con todas las peliculas que sean del mismo genero
+
+    El titulo cambia, como tambien las peliculas que se muestran
+
+    (Al tener peliculas con multiples generos se puede hacer una tabla
+    de seleccion de generos que sea checkbox)
+
+    Boxplot muestra todos los ratings por genero y si se escoge un genero
+    se muestran las peliculas top 10.
+
+Dropdown por decada (rangeslider?)
+
+    Al elegir una decada se muestran en lso graficos todos las peliculas por decada
+
+Boton para ordenar por numero de votos o rating
+    
+    Puede ser por grafico en particular
+
+
+
+
+idea de grafico
+
+Rueda dependencia por genero (cada color un genero (17 COLORES*****))
